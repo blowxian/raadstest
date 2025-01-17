@@ -1,43 +1,48 @@
-# AccentTest
+# RAADS-R Test Platform
 
-Your personal accent training and analysis platform.
+Your comprehensive platform for the Ritvo Autism Asperger Diagnostic Scale-Revised (RAADS-R) assessment.
 
 ## Project Overview
 
-Welcome to AccentTest, your comprehensive accent training companion. Our platform combines professional accent coaching techniques with cutting-edge technology to help you perfect your pronunciation and reduce your accent.
+Welcome to the RAADS-R Test Platform, a specialized tool designed to assist in the assessment of autism spectrum traits in adults. Our platform combines professional assessment methodologies with user-friendly interfaces to provide valuable insights into autism spectrum characteristics.
 
 ## Key Features
 
-- **Professional Training**: Access expert-designed accent training methods and coaching resources
-- **Personalized Coaching**: Get tailored feedback and recommendations for accent improvement
-- **Interactive Practice**: Engage with AI-powered tools for real-time accent training
-- **Expert Community**: Learn from professional accent coaches and language specialists
-- **Progress Tracking**: Monitor your accent improvement journey with detailed analytics
+- **Professional RAADS-R Assessment**: Access the validated RAADS-R test with accurate scoring
+- **Multi-Language Support**: Test available in multiple languages including English, Spanish, Chinese, and more
+- **Instant Results**: Receive detailed test results and interpretations immediately
+- **Educational Resources**: Access comprehensive articles and videos about autism and RAADS-R
+- **AI-Powered Assistant**: Get support from our mental health AI assistant
+- **Progress Tracking**: Monitor your assessment history and progress
 
-## Training Tools
+## Test Components
 
-- **Accent Coach AI**: Personal AI-powered accent training assistant
-- **Pronunciation Trainer**: Advanced system for perfecting your speech patterns
-- **Accent Improvement Exercises**: Curated exercises from professional accent coaches
-- **Speech Analysis**: Real-time feedback on your pronunciation and accent
-- **Practice Sessions**: Structured training modules for consistent improvement
+- **Comprehensive Evaluation**: 80-question assessment covering key autism spectrum traits
+- **Validated Scoring System**: Scientifically validated scoring methodology
+- **Detailed Analysis**: In-depth interpretation of test results
+- **Professional Guidelines**: Expert-developed testing protocols
+- **Educational Resources**: Access to autism-related articles and research
 
-## Online Resources
+## Our Testing Platforms
 
-- [Accent Test - Professional Accent Training & Analysis](https://accent-test.com)
-- [Accent Guesser - Personalized Accent Coaching](https://accentguesser.co)
-- [BoldVoice - Expert Accent Coaching Platform](https://boldvoice.com)
+### Primary Platforms
+- [RAADS Test](https://raadstest.com) - Complete RAADS-R assessment with detailed scoring
+- [RAADSR Test](https://raadsrtest.com) - Alternative platform for RAADS-R evaluation
+- [Autism Test Free](https://autismtestfree.com) - Free comprehensive autism screening tools
 
-## Join Our Community
+### Additional Resources
+- [Autism Articles](https://raadstest.com/articles-and-videos-about-raads-test-and-autism/) - Educational resources about autism
+- [AI Assistant](https://raadstest.com/ai-powered-mental-health-assistant/) - Get AI-powered support
+- [AQ Test](https://raadstest.com/blog/autism-spectrum-quotient-aq-test/) - Additional autism spectrum assessment
 
-Connect with accent coaches, language experts, and fellow learners! Share your progress, get professional feedback, and access exclusive training resources. Visit our GitHub repository for more information.
+## Important Notice
 
-## Why Choose AccentTest?
+This platform provides self-assessment tools and should not be used for self-diagnosis. The RAADS-R test is designed to assist in the assessment process, but a proper diagnosis of Autism Spectrum Disorder can only be made by qualified healthcare professionals.
 
-- **Expert Guidance**: Learn from professional accent coaches and training materials
-- **Proven Methods**: Follow established accent reduction techniques
-- **Supportive Network**: Join a community focused on accent training and improvement
+## Scientific Background
 
-## Get Started
+The RAADS-R is based on the research by Ritvo et al. (2011) and has been validated as a useful tool in assisting the diagnosis of autism spectrum disorders in adults. For more information, visit our [research page](https://raadstest.com/blog/validating-the-raads-r-scale-for-autism-diagnosis-in-adults/).
 
-Begin your accent improvement journey today. Whether you're looking to reduce your accent or perfect your pronunciation, AccentTest provides the tools and coaching you need to succeed.
+## Privacy & Security
+
+We prioritize user privacy and data security. All test results and personal information are handled with strict confidentiality. For more details, please review our [Privacy Policy](https://raadstest.com/blog/private-policy/).
